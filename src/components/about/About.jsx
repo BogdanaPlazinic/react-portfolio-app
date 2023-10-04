@@ -2,7 +2,7 @@ import React from 'react'
 import './about.css'
 import ME from '../../assets/me-about.jpg'
 import {MdComputer} from 'react-icons/md'
-import {GiBookshelf} from 'react-icons/gi'
+import {BsCodeSlash} from 'react-icons/bs'
 import {AiFillFolderOpen} from 'react-icons/ai'
 
 const About = () => {
@@ -25,9 +25,9 @@ const About = () => {
                             <small>3+ Years Working</small>
                         </article>
                         <article className='about__card'>
-                            <GiBookshelf className='about__icon'/>
-                            <h5>Currently Learning</h5>
-                            <small>Next.js</small>
+                            <BsCodeSlash className='about__icon'/>
+                            <h5>Currently Developing</h5>
+                            <small>MERN dashboard App with CRUD functionalities</small>
                         </article>
                         <article className='about__card'>
                             <AiFillFolderOpen className='about__icon'/>
