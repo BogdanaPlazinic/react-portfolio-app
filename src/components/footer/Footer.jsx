@@ -24,7 +24,7 @@ const Footer = () => {
             </div>
 
             <div className='footer__copyright'>
-                <small>Bogdana Plazinić 2023</small>
+                <small>Bogdana Plazinić 2024</small>
             </div>
 
         </footer>
