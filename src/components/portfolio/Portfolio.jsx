@@ -5,6 +5,7 @@ import IMG1 from '../../assets/portfolio1.jpg'
 import IMG2 from '../../assets/ecomm-dash.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
+import IMG5 from '../../assets/portfolio5.jpg'
 
 
 const data = [
@@ -36,6 +37,13 @@ const data = [
         github: 'https://github.com/BogdanaPlazinic/National-Geographic-video-player-custom-controls',
         demo: 'https://video-player-custom-controls.netlify.app'
     },
+    {
+        id: 5,
+        image: IMG5,
+        title: 'brainwave',
+        github: 'https://github.com/BogdanaPlazinic/brainwave',
+        demo: 'https://main--brainwave-projects.netlify.app/'
+    }
 ]
 
 const Portfolio = () => {
