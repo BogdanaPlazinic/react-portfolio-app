@@ -6,6 +6,7 @@ import IMG2 from '../../assets/ecomm-dash.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
 import IMG5 from '../../assets/portfolio5.jpg'
+import IMG6 from '../../assets/portfolio6.jpg'
 
 
 const data = [
@@ -43,6 +44,13 @@ const data = [
         title: 'brainwave',
         github: 'https://github.com/BogdanaPlazinic/brainwave',
         demo: 'https://main--brainwave-projects.netlify.app/'
+    },
+    {
+        id: 6,
+        image: IMG6,
+        title: 'travel_app',
+        github: 'https://github.com/BogdanaPlazinic/travel_app',
+        demo: 'https://travel-app-template.netlify.app'
     }
 ]
 
